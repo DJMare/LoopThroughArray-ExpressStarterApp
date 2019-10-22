@@ -2,6 +2,7 @@
 A simple express app that loops through an array using the express starter app. 
 
 COMMAND PROMPT
+
 (1) Run the following to navigate to your Desktop: cd Desktop
 
 (2) Create a new folder on desktop: mkdir Express
@@ -22,8 +23,12 @@ COMMAND PROMPT
 
 (10) Open in VS code: code . 
 
+VS CODE
+
 (11) Navigate to the routes/index.js file and add an array of users:
 
 (12) Navigate to the routes/index.hbs file and update to show the array of users:
+
+WEB BROWSER
 
 (13) In your web browser, navigate to localserver:3000 to see changes: 
