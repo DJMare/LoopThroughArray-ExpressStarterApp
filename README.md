@@ -27,7 +27,7 @@ VS CODE
 
 (11) Navigate to the routes/index.js file and add an array of users: ![add an array of users to index js (loop_array)](https://user-images.githubusercontent.com/35668707/67255288-294f8780-f436-11e9-9147-58d6f3a2e840.JPG)
 
-(12) Navigate to the routes/index.hbs file and update to show the array of users:
+(12) Navigate to the routes/index.hbs file and update to show the array of users: ![update to show array of users to index hbs (loop_array)](https://user-images.githubusercontent.com/35668707/67255332-5b60e980-f436-11e9-8add-c4f92b73e2b0.JPG)
 
 WEB BROWSER
 
