@@ -22,6 +22,9 @@ COMMAND PROMPT
 (9) Start the server with Nodemon with the following command: nodemon
 
 (10) Open in VS code: code . 
+![open in vs code - index hbs (loop_array)](https://user-images.githubusercontent.com/35668707/67255353-80555c80-f436-11e9-8c6f-64c78fd6cdf5.JPG)
+
+![open in vs code - index js(loop_array)](https://user-images.githubusercontent.com/35668707/67255390-bc88bd00-f436-11e9-8a90-2b56544b90da.JPG)
 
 VS CODE
 
@@ -31,4 +34,4 @@ VS CODE
 
 WEB BROWSER
 
-(13) In your web browser, navigate to localserver:3000 to see changes: 
+(13) In your web browser, navigate to localserver:3000 to see changes: ![localhost3000 to see changes](https://user-images.githubusercontent.com/35668707/67255422-d9bd8b80-f436-11e9-9407-155f44380209.JPG)
