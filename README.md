@@ -23,13 +23,21 @@ COMMAND PROMPT
 
     express --view=hbs express_loop_array
 
-(6) Once the process is complete, navigate into the express_loop_array directory: cd express_loop_array 
+(6) Once the process is complete, navigate into the express_loop_array directory: 
 
-(7) Now in the express_loop_array directory, run the following: npm install
+    cd express_loop_array 
 
-(8) Install Nodemon globally: npm install -g nodemon
+(7) Now in the express_loop_array directory, run the following: 
 
-(9) Start the server with Nodemon with the following command: nodemon
+    npm install
+
+(8) Install Nodemon globally: 
+
+    npm install -g nodemon
+
+(9) Start the server with Nodemon with the following command: 
+
+    nodemon
 
 (10) Open in VS code: code . 
 ![open in vs code - index hbs (loop_array)](https://user-images.githubusercontent.com/35668707/67255353-80555c80-f436-11e9-8c6f-64c78fd6cdf5.JPG)
